@@ -1,0 +1,16 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# Shareable copy of the project (generated)
+bcc_email_ai_share/
+
+# Local editor/tool settings
+.claude/
